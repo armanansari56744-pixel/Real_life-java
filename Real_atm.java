@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mini_Atm {
+public class Real_atm {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
